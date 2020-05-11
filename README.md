@@ -2,7 +2,7 @@
 ### BetterMotherFuckingWebsite
 Ce site internet est construit avec HTML5 et CSS3. 
 
-Du Javascript a été ajouté pour dynamiser la page de deux manières:
+Du JavaScript a été ajouté pour dynamiser la page de deux manières:
 
 - Afficher une popup au bout de 10 secondes sur le site
 
