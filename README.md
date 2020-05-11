@@ -5,10 +5,7 @@ C’est un site internet construit avec HTML5 et CSS3. Du Javascript a été ajo
 
 Lien du GitHub : https://github.com/YassineSeltene/YassineSeltene.github.io.git
 
-Lien du site : yassineSeltene.github.io
-
-## Manifestation
-![Screenshot](file:///Users/macbookpro/Desktop/Capture%20d%E2%80%99e%CC%81cran.png)
+Lien du site : yassineseltene.github.io
 
 ## Auteur
 Nom et Prénom : SELTENE Yassine 
