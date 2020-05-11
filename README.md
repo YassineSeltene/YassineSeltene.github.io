@@ -7,29 +7,16 @@ Lien du GitHub : https://github.com/YassineSeltene/YassineSeltene.github.io.git
 
 Lien du site : yassineSeltene.github.io
 
-## Pour commencer
-
-Entrez ici les instructions pour bien débuter avec votre projet...
+## Manifestation
 
 
 
 
+## Auteur
+Nom et Prénom : SELTENE Yassine 
 
+Email : m.yassine.seltene@gmail.com
 
+Lien du GitHub : https://github.com/YassineSeltene/
 
-
-
-
-Titre du projet
-(juste en dessous des badges sympatiques à placer)
-
-forthebadge  forthebadge
-
-Une petite description du projet
-
-Pour commencer
-Entrez ici les instructions pour 
-
-
-Titre du projet
-YassineSeltene.github.io
+Tél : 22 563 023
