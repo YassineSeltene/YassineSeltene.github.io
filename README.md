@@ -1,9 +1,8 @@
 # Titre du projet
-_(juste en dessous des badges sympatiques à placer)_
-
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
-
-Une petite description du projet
+BetterMotherFuckingWebsite
+Description : C’est un site internet construit avec HTML5 et CSS3. Du Javascript a été ajouté pour dynamiser la page
+Lien du GitHub : https://github.com/YassineSeltene/YassineSeltene.github.io.git
+Lien du site : yassineSeltene.github.io
 
 ## Pour commencer
 
