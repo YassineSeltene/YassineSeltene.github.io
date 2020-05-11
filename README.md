@@ -1,6 +1,6 @@
 # Titre du projet
 BetterMotherFuckingWebsite
-#### Description : 
+##### Description : 
 C’est un site internet construit avec HTML5 et CSS3. Du Javascript a été ajouté pour dynamiser la page
 
 Lien du GitHub : https://github.com/YassineSeltene/YassineSeltene.github.io.git
